@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+.replit
+replit.nix
+node_modules
